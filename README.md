@@ -1,1 +1,1 @@
-# proizvcalendar
+Производственный календарь с портала Открытых данных (https://data.gov.ru/opendata/7708660670-proizvcalendar) с актуальными данными
